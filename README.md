@@ -13,5 +13,5 @@
 *python manage.py migrate
 *python manage.py runserver
 
-![Ekran Görüntüsü (63)](https://user-images.githubusercontent.com/96957200/174003015-5c3f657d-1109-49f5-a4d7-7795529ca2d3.png)
-![Ekran Görüntüsü (64)](https://user-images.githubusercontent.com/96957200/174003053-47335514-5101-495e-bd36-0b926f53df2d.png)
+![Ekran Görüntüsü (65)](https://user-images.githubusercontent.com/96957200/174003840-857a8717-450e-408c-8fc6-abe71ee945eb.png)
+![Ekran Görüntüsü (66)](https://user-images.githubusercontent.com/96957200/174003874-4895ed4a-f0e7-44ba-a823-f0fed01f963a.png)
